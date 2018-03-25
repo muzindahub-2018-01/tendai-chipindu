@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <Green Vale Academy>
+    <title>Welcome to Green Vale Academy</title>
+  </head>
+  <body>
+  <img src="pulpitrock.jpg" alt="Mountain View">
+  <p> Green Vale Academy is situated in Kadoma, Mashonaland West. It is a private school that prides itself in providing exeptional services to is pupils. A school commited to helping learners reach thier full potential.</p>
+    <h1>Subjects on offer</h1>
+    <li>History</li>
+    <li>Mathematics</li>
+    <li>English</li>
+    <li>Accounting</li>
+    <li>Geography</li>
+    <li>Biology</li>
+    <li>Shona</li> 
+    <li>Computer Science</li>
+    <li>Heritage Studies</li>
+    <li>Agriculture</li>
+    <li>Bisuness Enteprise and Skills</li>
+    <li>and Combined Science</li>
+    <h2>HTML Links</h2>
+<p><a href="https://www.greenvaleacademy.com/html/">visit our school</a></p>
+<h3>Staff Members</h3>
+<li> Mr M Banda Geography MSU</li>
+<li> Mrs T Chipindu History UZ</li>
+<li> Mr T. Chomudondo Science NUST</li>
+<li> Mr. P Magumbo Maths UZ</li>
+<li> Mrs M Chimuka Shona UZ</li>
+<p>The staff members are all experienced, dedicated and vibrant teachers who have been treaching over ten years. We uphold African and Christian values and wish to nurture patriotic and peace loving Zimbabweans. We hope you enjoy your stay with us.</p>
+<h4>Calender</h4>
+<li>13 May 2018-Opening day All students expected to report to school</li>
+<li>25 June 2018- Consulataion Day</li>
+<li>13 July 2018 School Trip to Victoria Falls</li>
+<li>20 July 2018 Midyear Exams Begin</li>
+<li>1 August 2018 Speech and Prize Giving Day</li>
+ <address>
+Get in touch with us <a href="mailto:tchipindu@gmail.com">Tendai Chipindu</a>.<br>
+Visit us at:<br>
+green vale academy.com<br>
+222 Nedlaw Rimuka, Kadoma<br>
+Zimbabwe
+</address> 
+  </body>
+</html>
